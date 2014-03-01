@@ -1,0 +1,20 @@
+## GAMS
+# Ignore auxiliary GAMS files
+*.log
+*.lst
+*.lxi
+*.~gm
+*.gdx
+*.dat
+
+# Ignore GAMSCHK definition files
+*.gck
+
+# Ignore options files
+*.op*
+
+# Ignore the license file
+license.lic
+
+# Ignore GAMS locks
+*.~*

@@ -1,0 +1,3 @@
+## GAMS
+# Do not ignore GAMS data files in this folder
+!*.gdx
