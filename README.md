@@ -24,6 +24,7 @@ the `Test` directory.
     
 This is version 1.1 of the electronic appendix. The latest version of this
 appendix may be found (after article publication) at Stephen Frank's personal
-website, http://www.stevefrank.info. This code is released under the Gnu Public
-License (GPL) version 3. A copy of this license is available in the root
-directory of this appendix (the same directory as this README file).
+website, http://www.stevefrank.info or on Github at
+https://github.com/stephen-frank/ac-dc-design/. This code is released under
+the Gnu Public License (GPL) version 3. A copy of this license is available
+in the root directory of this appendix (the same directory as this README file).
