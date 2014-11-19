@@ -14,9 +14,9 @@ To perform a batch solve for the model:
 2. Copy the appropriate data file(s) from the `Data` directory to the local
    directory.
 3. Modify `batch-run-algorithm.gms` and/or `batch-run-monolith.gms` as needed.
-   a. Specify the GAMS command
-   b. Specify the path to your GAMS license file
-   c. Perform any other required configuration changes.  
+   1. Specify the GAMS command
+   2. Specify the path to your GAMS license file
+   3. Perform any other required configuration changes.  
       (See descriptive comments in the _Setup_ section of the batch script.)
 4. Execute `batch-run-algorithm.gms` and/or `batch-run-monolith.gms`.
 
