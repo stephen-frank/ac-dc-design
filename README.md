@@ -1,4 +1,4 @@
-# AC-DC Design
+# AC-DC Design Source Code
 
 This electronic appendix includes the GAMS source code for the formulation and
 NGBD solution algorithm for the mixed AC-DC electricity distribution system
